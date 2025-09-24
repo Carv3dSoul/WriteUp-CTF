@@ -14,7 +14,9 @@ None
 https://web2.ittsec.net/
 
 **Difficulty:** -  
-**Points:** 10
+
+**Points:** 10 
+
 **Author:** -  
 
 ---
