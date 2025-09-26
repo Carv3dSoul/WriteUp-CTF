@@ -36,5 +36,5 @@ here there are key messages 1, 2, 3, 4 It asked me to find a password and then t
 ## Flag
 
 ```
-ITTSec{hello_ctf_world}
+
 ```
