@@ -1,40 +1,36 @@
-# Forgot Password 
+# ITTSec Mobile
 
-<img width="500" height="500" alt="Screenshot 2025-09-24 221728" src="https://github.com/user-attachments/assets/adfc2de6-3c52-4a49-a670-82fb2fd68d06" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7fcbf0f8-1e72-49f6-8156-bf394f3650c3" />
 
-**Category:** Welcome  
-
+**Category:** Mobile  
 
 **Description:**  
-Teman saya lupa passwordnya, yang dia ingat 8 karakter (Uppercase, Number).
-Tolong bantu pecahkan, terimakasih dan youRock!
-Note: Format Flag: ITTSec{passwordnya} Jangan bruteforce ke server! Tombol Submit Flag akan terkunci/disable jika salah 5 kali
+None 
 
 **Attachments:** 
 ```
-https://ctf.ittsec.net/files/5e8feaa6534f312bcd6b22907127fd0e/handshake_ITTSec_7A-76-18-23-9F-91_2025-09-08T13-56-54.cap?token=eyJ1c2VyX2lkIjo4MiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Nn0.aNQLgg.9v3pcSjTTuMLsM92SA2GUdtqkxc
+ittsec1.apk
 ```
 
 **Difficulty:** -  
 
-**Points:** 12
+**Points:** 13
 
 **Author:** - 
 
 ---
 
 ## Solution
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3e2a62d6-fcda-458a-ad3c-05880a4fa68d" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d30a9525-4730-4672-81dd-b24acd1f4ba7" />
 
-given the ITTSec handshake_stamp_file_7A-76-18-23-9F-91_2025-09-08T13-56-54.cap here I use the wireshark tool to analyze it first
+We were given the ittsec1.apk file. What I did was check the file type. Here I tried something funny, I tried using ```strings``` and searching for ITTSec.
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/30e59587-589b-40fd-aa68-fe1c8551f4ff" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/32aea043-ddeb-4c7e-97be-c8382b448599" />
 
-here there are key messages 1, 2, 3, 4 It asked me to find a password and then there was a clue called youRock? I immediately connected that it was Rockyou so I used ```hashcat``` and ```Rockyou wordlists``` here
-
+and boom got the flag.
 
 ## Flag
 
 ```
-ITTSec{hello_ctf_world}
+ITTSec{e4sy_r3ver53_Flag_s0}
 ```
