@@ -9,7 +9,9 @@ Intro Challenge
 **Attachments:**  None  
 
 **Difficulty:** -  
+
 **Points:** 100 
+
 **Author:** - 
 
 ---
