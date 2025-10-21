@@ -1,7 +1,12 @@
 # Sanity Check
 
 **Category:** Welcome  
+
+---
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6b133786-4e29-4293-9048-130585bd0036" />
+
+---
 
 **Description:**  
 Intro Challenge
