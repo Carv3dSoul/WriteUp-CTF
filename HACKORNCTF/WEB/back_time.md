@@ -1,7 +1,12 @@
 # back time
 
 **Category:** Web  
+
+---
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/80b572e9-38fc-4771-985f-ce41ef53ef30" />
+
+---
 
 **Description:**  
 Intro Challenge
@@ -22,6 +27,8 @@ The sysadmin has left a hidden backdoor account for maintenance. Default credent
 OWASP A2:2017
 
 Instance
+
+---
 
 ## Solution
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4e64bcf7-dd1e-4fab-a52d-a54938377c2b" />
