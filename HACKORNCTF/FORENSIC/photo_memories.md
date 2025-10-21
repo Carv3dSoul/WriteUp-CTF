@@ -2,7 +2,11 @@
 
 **Category:** Forensic
 
+---
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/171d711a-8fe5-4d02-84f3-a008c1de7aa6" />
+
+---
 
 **Description:**  
 Intro Challenge
