@@ -2,7 +2,11 @@
 
 **Category:** Web
 
+---
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5f43be7e-3b01-4b29-84ca-6805df9047fb" />
+
+---
 
 **Description:**  
 Intro Challenge
@@ -21,6 +25,8 @@ Intro Challenge
 The company’s internal authentication system seems simple at first glance, but something doesn’t add up. You were given access to their login portal,
 Check Login
 Brute-force attempts won’t help here. @localh0ste
+
+---
 
 ## Solution
 
