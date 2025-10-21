@@ -2,7 +2,11 @@
 
 **Category:** Misc  
 
+---
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/288f9eb3-f7b8-4644-b9c8-a66637fc0c0d" />
+
+---
 
 **Description:**  
 Intro Challenge
